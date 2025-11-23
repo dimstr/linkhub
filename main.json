@@ -1,3 +1,27 @@
-{
-  "url": "https://www.google.com"
-}
+[
+  {
+    "name": "Google",
+    "link": "https://www.google.com",
+    "color": 0
+  },
+  {
+    "name": "Flutter Official Docs",
+    "link": "https://docs.flutter.dev/",
+    "color": 1
+  },
+  {
+    "name": "Pub.dev Packages",
+    "link": "https://pub.dev/",
+    "color": 0
+  },
+  {
+    "name": "The Verge",
+    "link": "https://www.theverge.com",
+    "color": 1
+  },
+  {
+    "name": "TechCrunch",
+    "link": "https://techcrunch.com/",
+    "color": 0
+  }
+]
