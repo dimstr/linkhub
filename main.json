@@ -5,6 +5,11 @@
       "name": "Звонок",
       "link": "https://telemost.yandex.ru/j/16827401636320",
       "color": 0
-    }
+    }, 
+    {
+      "name": "Google",
+      "link": "https://www.google.com",
+      "color": 0
+    },
   ]
 }
